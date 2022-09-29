@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "id": "4452",
+            "parent_exercise_id": null,
+            "name": "Introduction To Python",
+            "slug": "python__introductionToPython_md",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/python/introductionToPython.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4453",
+            "parent_exercise_id": null,
+            "name": "Variables",
+            "slug": "python__variables_md",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/python/variables.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4455",
+            "parent_exercise_id": null,
+            "name": "Files",
+            "slug": "python__dataTypes_md",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/python/dataTypes.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4454",
+            "parent_exercise_id": null,
+            "name": "Operators",
+            "slug": "python__operators_md",
+            "sequence_num": 300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/python/operators.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4456",
+            "parent_exercise_id": null,
+            "name": "If Statement",
+            "slug": "python__ifElse_md",
+            "sequence_num": 400,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/python/ifElse.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4457",
+            "parent_exercise_id": null,
+            "name": "loops-course-link",
+            "slug": "python__loops-course-link_md",
+            "sequence_num": 500,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/python/loops-course-link.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4458",
+            "parent_exercise_id": null,
+            "name": "Lists",
+            "slug": "python__lists_md",
+            "sequence_num": 600,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/python/lists.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4459",
+            "parent_exercise_id": null,
+            "name": "Python function",
+            "slug": "python__functions_md",
+            "sequence_num": 700,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/python/functions.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4461",
+            "parent_exercise_id": null,
+            "name": "More Exercise",
+            "slug": "python__moreExercise_md",
+            "sequence_num": 800,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/python/moreExercise.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4460",
+            "parent_exercise_id": null,
+            "name": "Files",
+            "slug": "python__files_md",
+            "sequence_num": 900,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/python/files.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
